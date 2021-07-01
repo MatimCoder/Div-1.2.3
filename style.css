@@ -1,0 +1,186 @@
+#{
+ margin: 0;
+padding: 0;
+
+}
+body {
+    background-image: url(12345.jpeg);
+    background-position: center;
+    background-size: cover;
+    height: 100px;
+}
+.mainhtext {
+    text-align: center;
+    background: black;
+    width: 80%;
+    margin: auto;
+}
+.mainbox {
+    width: 80%;
+    height: 600px;
+    margin: auto;
+}
+.menu {
+    width: 100%;
+    height: 80px;
+    background: rgba( 26, 26, 255, 0.550);
+}
+.menu ul {
+    float: right;
+    list-style: style none;
+}
+.menu ul li {
+    display: inline-block;
+}
+.menu ul li a {
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    line-height: 50px;
+    transition: 2px;
+    border: 2px solid white;
+}
+.menu ul li a:hover {
+    color: red;
+}
+.maincontent {
+    background: rgba(255, 99, 71, 0.4);
+    height: 500px;
+    width: 70%;
+    float: left;
+}
+.mct {
+    color: green;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+.cnotent {
+    text-align: justify;
+    font-size: 20px;
+    font-weight: 600;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sidebar {
+    background: rgba(144, 197, 20, 0.700);
+    height: 500px;
+    width: 30%;
+    float: right;
+}
+.header {
+    width: 850px;
+    margin: 0 auto;
+    background: red;
+    overflow: hidden;
+    height: 60px;
+    background: blueviolet;
+}
+.logo {
+    width: 150px;
+    text-align: center;
+    Float: left;
+    line-height: 60px;
+}
+.site_menu {
+    width: 700px;
+    float: right;
+}
+.site_menu ul li {
+    float: left;
+    margin: 10px;
+    line-height: 40px;
+    list-style: none;
+}
+.site_menu ul li a {
+    color: white;
+    text-decoration: none;
+    background: black;
+    padding: 10px;
+    font-size: 22px;
+}
+.logo span {
+    color: yellow;
+    font-size: 22px
+}
+.background_image {
+    margin: auto;
+    width: 850Px;
+}
+.background_image {
+    background: url(bg\ images.jpg);
+    height: 450px;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+.background_title {
+    text-align: center;
+    margin-top: 50px;
+    color: red;
+    font-size: 25;
+}
+.profile_pic {
+    width: 200px;
+    margin: auto;
+    margin-top: 50px;
+}
+.profile_pic img {
+    border-radius: 50%;
+    border: 10px solid red;
+}
+.profile_icon {
+    text-align: center;
+    padding: 10px 40px;
+}
+.profile_icon i {
+    background: yellowgreen;
+    padding: 20px 20px;
+    margin-left: 30px;
+    border-radius: 50%;
+    color: rgb(255, 255, 255);
+}
+.profile_icon i:hover {
+    Background: red;
+    color: black;
+    transition: 2px;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.total_menu {
+    width: 800px;
+    background: yellow;
+    margin: auto;
+}
+.header {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    background: green;
+    line-height: 90px;
+}
+.side_bar {
+    width: 25%;
+    height: 223px;
+    background: yellowgreen;
+    float: left;
+    text-align: center;
+    margin-top:
+}
+.side_bar ul {
+    margin-top: 40px;
+}
+.side_bar ul li a {}
+.content_tittle {
+    background: red;
+    text-align: center;
+}
+.futer_section {
+    background: gray;
+    color: white;
+    width: 100%;
+    height: 80px;
+    text-align: center;
+}
